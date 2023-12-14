@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin_practice2</string>
+    <string name="title_employee_list">社員一覧</string>
+</resources>
